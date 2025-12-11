@@ -12,3 +12,19 @@ We can't use the regular released version of OpenBCI because its now been modifi
 
    ```bash
    $ git clone https://github.com/Cerelog-ESP-EEG/OpenBCI_GUI-Fork.git
+   ```
+
+3. **(This should be default branch but if not) Switch to the `feature/lsl-input-and-clinical-eeg-bandpass-filter` branch**
+
+   ```bash
+   $ git checkout feature/lsl-input-and-clinical-eeg-bandpass-filter
+   ```
+
+4. **Copy and paste all libraries from the repo located in OpenBCI_GUI-Fork/OpenBCI_GUI/libraries to the application Processing's /documents/processing/libraries folder**
+
+5. **Using Processing, open the `OpenBCI_GUI` directory that you cloned in the step 2 (File > Open on a Mac, for instance).**
+
+6. **Click the Run button**
+
+7. **OpenBCI should start up**
+```
