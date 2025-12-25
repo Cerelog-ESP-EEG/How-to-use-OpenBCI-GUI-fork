@@ -28,5 +28,5 @@ We can't use the regular released version of OpenBCI because its now been modifi
 
 7. **Click the Run button w processing**
 
-8. **OpenBCI should start up**
+8. **OpenBCI should start up; Select stream with Lab Stream Layer 8 CH and then Start Stream**
 ```
