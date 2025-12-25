@@ -24,7 +24,9 @@ We can't use the regular released version of OpenBCI because its now been modifi
 
 5. **Using Processing, open the `OpenBCI_GUI` directory that you cloned in the step 2 (File > Open on a Mac, for instance).**
 
-6. **Click the Run button**
+6. **Ensure the board is using LSL for streaming data; you must have the LSL test script running: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
 
-7. **OpenBCI should start up**
+7. **Click the Run button w processing**
+
+8. **OpenBCI should start up**
 ```
