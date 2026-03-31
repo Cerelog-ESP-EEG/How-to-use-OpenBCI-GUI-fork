@@ -20,7 +20,7 @@ https://github.com/Cerelog-ESP-EEG/OpenBCI_Fork_New
 --------------------------------------
 
 
-## [Method C] (Old gui but verified) Working Method:  Installing OpenBCI
+# [Method C] (Old gui but verified) Working Method:  Installing OpenBCI
 
 This section covers installing and running the Lab Streaming Layer branch of the custom fork of [OpenBCI_GUI](https://github.com/Cerelog-ESP-EEG/OpenBCI_GUI-Fork)
 
