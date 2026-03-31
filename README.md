@@ -1,6 +1,6 @@
 # How-to-use-OpenBCI-GUI-fork
 
-Note: If you run into an issue connecting with the PCB, please take a look at this troubleshooting guide: 
+Note: If you can't connect the computer to the device, read this helpful [troubleshooting guide:](https://github.com/Cerelog-ESP-EEG/Troubleshooting_connection/tree/main )
 
 ## NEW (Method A and B) (Under testing)
 
