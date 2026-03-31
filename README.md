@@ -5,7 +5,7 @@
 
 # [Method A] - EASY - way to connect to MODERN OpenBCI GUI Fork: 
 
-Install forked version of program here:   For MAC you need to right click and run disk image manually
+Install forked version of program here: [Drive](https://drive.google.com/drive/folders/16bPxp4Zl_YqPQo_A6QDyYHQL1napQC9u?usp=share_link)   Note: For MAC you need to right click and run disk image manually
 
 and
 
@@ -15,7 +15,7 @@ or
 
 # [Method B] - For developers - or if you run into issues you can run the below linked gui in the processing application
 
-Download processing version 4.2. You must have the LSL test script running: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
+Download processing version 4.2 Other versions dont work, careful! You must have the LSL test script running: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
 
 And run this in processing
 https://github.com/Cerelog-ESP-EEG/OpenBCI_Fork_New
