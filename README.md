@@ -1,7 +1,7 @@
 # How-to-use-OpenBCI-GUI-fork
 
 
-## NEW (Under testing)
+## NEW (Method A and B) (Under testing)
 
 # [Method A] - EASY - way to connect to MODERN OpenBCI GUI Fork: 
 
