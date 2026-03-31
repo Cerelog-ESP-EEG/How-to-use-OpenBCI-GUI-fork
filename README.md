@@ -1,5 +1,6 @@
 # How-to-use-OpenBCI-GUI-fork
 
+Note: If you run into an issue connecting with the PCB, please take a look at this troubleshooting guide: 
 
 ## NEW (Method A and B) (Under testing)
 
