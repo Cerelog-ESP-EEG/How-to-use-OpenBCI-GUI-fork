@@ -49,9 +49,11 @@ We can't use the regular released version of OpenBCI because its now been modifi
 
 5. **Using Processing, open the `OpenBCI_GUI` directory that you cloned in the step 2 (File > Open on a Mac, for instance).**
 
-6. **Ensure the board is using LSL for streaming data; you must have the LSL test script running: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
+6. **Ensure the board is using LSL for streaming data; you must have the LSL test script running: 
 
-7. **Click the Run button w processing**
+   # **SPECIAL INSTRUCTIONS to run lsl with method C: Must edit the python script such that line 24 is commented out and line 25 is uncommented [LSL Code](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
 
-8. **OpenBCI should start up; Select stream with Lab Stream Layer 8 CH and then Start Stream**
+8. **Click the Run button w processing**
+
+9. **OpenBCI should start up; Select stream with Lab Stream Layer 8 CH and then Start Stream**
 ```
