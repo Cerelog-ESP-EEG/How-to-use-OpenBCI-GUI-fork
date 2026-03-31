@@ -6,7 +6,9 @@
 # [Method A] - EASY - way to connect to MODERN OpenBCI GUI Fork: 
 
 Install forked version of program here: 
+
 and
+
 You must have the LSL test script running with python before you turn on the gui: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
 
 or 
