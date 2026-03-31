@@ -5,7 +5,7 @@
 
 # [Method A] - EASY - way to connect to MODERN OpenBCI GUI Fork: 
 
-Install forked version of program here: 
+Install forked version of program here:   For MAC you need to right click and run disk image manually
 
 and
 
