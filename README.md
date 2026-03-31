@@ -3,13 +3,13 @@
 
 ## NEW (Under testing)
 
-#EASY [Method A] way to connect to MODERN OpenBCI GUI Fork: Install forked version of program here: 
+# EASY [Method A] way to connect to MODERN OpenBCI GUI Fork: Install forked version of program here: 
 
 You must have the LSL test script running with python before you turn on the gui: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
 
 or 
 
-#[Method B] For developers or if you run into issues you can run the below linked gui in the processing application
+# [Method B] For developers or if you run into issues you can run the below linked gui in the processing application
 
 Download processing version 4.2. You must have the LSL test script running: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
 
@@ -20,7 +20,7 @@ https://github.com/Cerelog-ESP-EEG/OpenBCI_Fork_New
 --------------------------------------
 
 
-##[Method C] (Old gui but verified) Working Method:  Installing OpenBCI
+## [Method C] (Old gui but verified) Working Method:  Installing OpenBCI
 
 This section covers installing and running the Lab Streaming Layer branch of the custom fork of [OpenBCI_GUI](https://github.com/Cerelog-ESP-EEG/OpenBCI_GUI-Fork)
 
