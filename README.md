@@ -1,6 +1,6 @@
 # How-to-use-OpenBCI-GUI-fork
 
-Note: If you can't connect the computer to the device, read this helpful [troubleshooting guide:](https://github.com/Cerelog-ESP-EEG/Troubleshooting_connection/tree/main )
+Note: Device refuses to connect? Read this helpful [troubleshooting guide](https://github.com/Cerelog-ESP-EEG/Troubleshooting_connection/tree/main )
 
 ## NEW (Method A and B) (Under testing)
 
