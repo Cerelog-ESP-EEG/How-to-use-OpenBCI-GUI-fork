@@ -51,7 +51,7 @@ We can't use the regular released version of OpenBCI because its now been modifi
 
 6. **Ensure the board is using LSL for streaming data; you must have the LSL test script running: 
 
-   # **SPECIAL INSTRUCTIONS to run lsl with method C: Must edit the python script such that line 24 is commented out and line 25 is uncommented.
+   # **SPECIAL INSTRUCTIONS to run lsl with method C: Must edit the python script such that line 24 is commented out and line 25 is uncommented. If using the wifi lsl python bridge script you need to do the same with line 17 and 18. This is because we are reverting the scaling factors back to account for GUI calculations. 
 
    Here is the [LSL Code](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
 
