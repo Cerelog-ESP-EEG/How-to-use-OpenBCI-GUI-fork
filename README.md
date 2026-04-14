@@ -6,7 +6,7 @@ Note: Device refuses to connect? Read this helpful [troubleshooting guide](https
 
 # [Method A] - EASY - way to connect to MODERN OpenBCI GUI Fork: 
 
-Install forked version of program here: [Drive](https://drive.google.com/drive/folders/16bPxp4Zl_YqPQo_A6QDyYHQL1napQC9u?usp=share_link)   Note: For MAC you need to right click and run disk image manually
+Install forked version of program here: [Drive](https://drive.google.com/drive/folders/16bPxp4Zl_YqPQo_A6QDyYHQL1napQC9u?usp=share_link)   Note: **For MAC** you need to right click and run disk image manually. If that doesnt work, manually run it in terminal with xattr -cr /Applications/OpenBCI_GUI.app since the app wasn't downloaded from the app store (security blocks it). 
 
 and
 
