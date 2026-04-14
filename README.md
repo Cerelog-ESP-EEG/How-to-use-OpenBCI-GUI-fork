@@ -8,11 +8,13 @@ Note: Device refuses to connect? Read this helpful [troubleshooting guide](https
 
 Install forked version of program here: [Drive](https://drive.google.com/drive/folders/16bPxp4Zl_YqPQo_A6QDyYHQL1napQC9u?usp=share_link)  
 
-Note: **For MAC** you need to right click and run disk image manually. If that doesnt work, manually run it in terminal with xattr -cr /Applications/OpenBCI_GUI.app since the app wasn't downloaded from the app store (security blocks it). 
-
 and
 
 You must have the LSL test script running with python before you turn on the gui: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
+
+Note: **For MAC** you need to right click and run disk image manually. If that doesnt work, manually run it in terminal with xattr -cr /Applications/OpenBCI_GUI.app since the app wasn't downloaded from the app store (security blocks it). 
+
+
 
 or 
 
