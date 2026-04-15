@@ -6,17 +6,14 @@ Note: Device refuses to connect? Read this helpful [troubleshooting guide](https
 
 # [Method A] - EASY - way to connect to MODERN OpenBCI GUI Fork: 
 
-**A.1** Install forked version of program here: [Drive](https://drive.google.com/drive/folders/16bPxp4Zl_YqPQo_A6QDyYHQL1napQC9u?usp=share_link)  
+**A.1.1** You must have the LSL test script running with python before you turn on the gui: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
+
 
 and
 
-**A.2** You must have the LSL test script running with python before you turn on the gui: [Read This](https://github.com/Cerelog-ESP-EEG/Lab-Stream-Layer-LSL-Compatability)**
-
-**A.3 MAC ONLY** Drag the gui to you application folder. You need to right click and run disk image manually. If that doesnt work, manually run it in terminal with **sudo xattr -cr /Applications/OpenBCI_GUI.app** since the app wasn't downloaded from the app store (security blocks it). 
-
-**A.5** Once the GUI is open, choose the LSL connection from options menue. Then in the upper left corner press start stream
-
-
+**A.2.1** Install forked version of program here: [Drive](https://drive.google.com/drive/folders/16bPxp4Zl_YqPQo_A6QDyYHQL1napQC9u?usp=share_link)  
+**A.2.2 MAC ONLY** Drag the gui to you application folder. You need to right click and run disk image manually. If that doesnt work, manually run it in terminal with **sudo xattr -cr /Applications/OpenBCI_GUI.app** since the app wasn't downloaded from the app store (security blocks it). 
+**A.2.3** Once the GUI is open, choose the LSL connection from options menue. Then in the upper left corner press start stream
 
 or 
 
