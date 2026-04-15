@@ -13,7 +13,7 @@ and
 
 **A.2.1** Install forked version of program here: [Drive](https://drive.google.com/drive/folders/16bPxp4Zl_YqPQo_A6QDyYHQL1napQC9u?usp=share_link)  
 
-**A.2.2 MAC ONLY** Drag the gui to you application folder. You need to right click and run disk image manually. If that doesnt work, manually run it in terminal with **sudo xattr -cr /Applications/OpenBCI_GUI.app** since the app wasn't downloaded from the app store (security blocks it). 
+**A.2.2 MAC ONLY** Drag the gui to you application folder. You need to right click and run disk image manually. If that doesnt work, manually run it in a new terminal tab with  **sudo xattr -cr /Applications/OpenBCI_GUI.app** since the app wasn't downloaded from the app store (security blocks it). 
 
 **A.2.3 All Users** Once the GUI is open, choose the LSL connection from options menue. Then in the upper left corner press start stream
 
